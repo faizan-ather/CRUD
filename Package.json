@@ -1,0 +1,26 @@
+{
+  "name": "CRUD Assignment",
+  "version": "1.0.0",
+  "description": "Imageserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faizan-ather/CRUD.git"
+  },
+  "author": "Faizan Ather",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faizan-ather/CRUD.git"
+  },
+  "homepage": "https://github.com/faizan-ather/CRUD.git#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "pg": "^8.8.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
